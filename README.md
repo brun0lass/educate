@@ -21,6 +21,3 @@
 ## <p align=center><a href="https://github.com/brun0lass/Learn-with-Educate.git">Learn with Educate</a></p>
 
 </div>
-<style> 
-    
-</style>
