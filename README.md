@@ -9,8 +9,6 @@
 
 #### <p style="text-align: center"><b>* If you want to read in English, just stay here on this Readme, but [skip this section in Portuguese](#educate-project) </p>
 
-<br>
-
 ### <p style="text-align: justify">Se você está procurando um conteúdo assim em português, por ter dificuldades, ou algo do tipo, te entendo! Estou procurando ter mais contato com inglês, porque a maioria das oportunidades para se trabalhar com blockchain, é sem dúvidas em outros países!
 
 ### Fica aqui a minha dica para você, busque ter mais contato com inglês também (Eu não sou exemplo de alguém que domina a linguagem, estou longe disso! Mas foi algo que eu percebi que eu tinha dificuldade, enquanto estava procurando sobre o assunto!)
