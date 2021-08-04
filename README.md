@@ -1,4 +1,4 @@
-## <b>Before we talk about the Educate cryptocurrency</b> // Antes de falarmos sobre a criptomoeda Educate
+## <p style="text-align: center"> <b>Before we talk about the Educate cryptocurrency</b>
 
 <br>
 
