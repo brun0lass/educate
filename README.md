@@ -1,5 +1,11 @@
-# <p align= center><b>Want to read in Portuguese? // Quer ler em português né?</p>
+# <p style="text-align: center"> <b>Before we talk about the Educate cryptocurrency</b><br>//<br> Antes de falarmos sobre a criptomoeda Educate
 
+
+<br>
+
+## <p><b>Want to read in Portuguese? // Quer ler em português né?
+
+<br>
 
 ### <p style="text-align: center"><b>* If you want to read in English, just stay here on this Readme, but [skip this section in Portuguese](#educate-project) </p>
 
