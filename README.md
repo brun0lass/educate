@@ -7,7 +7,7 @@
 
 <br>
 
-### <p style="text-align: center"><b>* If you want to read in English, just stay here on this Readme, but [skip this section in Portuguese](#educate-project) </p>
+#### <p style="text-align: center"><b>* If you want to read in English, just stay here on this Readme, but [skip this section in Portuguese](#educate-project) </p>
 
 <br>
 
