@@ -22,8 +22,6 @@
 
 ### <p style="text-align: justify">
 
-<br>
-
 ## <p align=center id="educate-project"><b>Educate Project</p>
 
 <br>
